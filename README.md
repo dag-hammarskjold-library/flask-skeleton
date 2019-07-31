@@ -8,7 +8,7 @@ This repository can get you started with:
 * Modular Flask development
 
 Current app structure.
-`
+```bash
 .
 ├── README.md
 ├── application
@@ -42,7 +42,7 @@ Current app structure.
 ├── requirements.txt
 ├── update-translations.sh
 └── zappa_settings.json
-`
+```
 
 The blueprint pieces are stored in the modules directory. Each blueprint is a sub-application, not capable of existing on its own, but modularized to encompass related functionality to ease development and debugging.
 
