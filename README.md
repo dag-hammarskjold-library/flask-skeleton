@@ -3,11 +3,11 @@ This is a skeleton application for making a specific variety of blueprinted Flas
 This repository can get you started with:
 
 * Continuous Integration with Travis CI
-* Serverless deplotment to AWS Lambda and API Gateway via Zappa
+* Serverless deployment to AWS Lambda and API Gateway via Zappa
 * Internationalization
 * Modular Flask development
 
-Current app structure.
+Current app structure:
 ```bash
 .
 ├── README.md
